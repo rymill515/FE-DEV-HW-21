@@ -5,17 +5,15 @@ h1 {
     padding: 20px;
 }
 
-.jumbotron {
-    background-image: url("/Images/milan-popovic-BmyXTxyDL-I-unsplash.jpg");
-    background-position:center;
-    background-size:cover;
-    color: white;
-}
-
 .nav {
     padding: 50px;
 }
 
 .btn {
     margin: 50px;
+}
+
+.nav-item {
+display: flex;
+justify-content: flex-end;
 }
