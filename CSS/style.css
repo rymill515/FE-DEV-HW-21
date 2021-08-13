@@ -17,3 +17,7 @@ h1 {
 display: flex;
 justify-content: flex-end;
 }
+
+.close {
+    justify-content: center;
+}
